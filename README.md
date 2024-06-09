@@ -17,3 +17,5 @@ Models: ResNet50v2, VGG16
 
 Libraries: OpenCV, Gradio
 
+Kaggle link for the dataset I have used in this project: https://www.kaggle.com/datasets/msambare/fer2013
+
