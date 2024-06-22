@@ -1,7 +1,7 @@
 # Emotion Detection Using CNN and FER-2013 Dataset
 ## Overview
-This project focuses on detecting human emotions using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset. By leveraging advanced CNN architectures like ResNet50v2 and VGG16, and employing techniques to handle class imbalance, the project aims to classify emotions accurately and deploy the model for real-time detection in live video streams.
-
+This project focuses on detecting human emotions using Convolutional Neural Networks (CNNs) trained on the FER-2013 dataset. By leveraging advanced CNN architectures like ResNet50v2 and VGG16, and employing techniques to handle class imbalance, the project aims to classify emotions accurately and deploy the model for real-time detection in live video streams.\
+Deployed the model using Gradio in Hugging faces: [link](https://huggingface.co/spaces/himavanth508/Emotion_Detection)
 ## Features
 Data Augmentation and Class Balancing: Addressed class imbalance in the FER-2013 dataset with image augmentation and class weights to enhance model robustness.
 Advanced CNN Architectures: Designed and iterated on custom CNN models, optimizing performance with architectures such as VGG16 and ResNet50v2.
